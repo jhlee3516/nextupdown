@@ -5,3 +5,4 @@ git commit -m "<memo>"
 git push -u origin master
 git config --global user.name "<name>"
 git config --global user.email "<email>"
+git update-git-for-windows
