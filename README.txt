@@ -2,6 +2,7 @@ git init
 git remote add origin main https://github.com/<username>/<repositoryname>.git
 git add .
 git add <filename>
+git status
 git commit -m "<memo>"
 git push -u origin +main
 git config --global user.name "<name>"
