@@ -11,3 +11,4 @@ git update-git-for-windows
 git pull origin main
 git branch main
 git checkout main
+git mv <filename> <rename>
