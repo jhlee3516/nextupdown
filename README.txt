@@ -1,5 +1,6 @@
 git init
 git remote add origin main https://github.com/<username>/<repositoryname>.git
+git branch -m master main
 git add .
 git add <filename>
 git status
